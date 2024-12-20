@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
+
 # Prime Video Content Analysis using Power BI
 
 This repository showcases an analysis of Prime Video’s extensive content library, consisting of over 7,800 movies and 1,850 TV shows, conducted using Power BI. The analysis provides valuable insights into release trends, ratings distribution, and content genres, focusing on both global and regional perspectives.
