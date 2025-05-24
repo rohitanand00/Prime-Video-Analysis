@@ -26,6 +26,8 @@ The goal of this project was to explore and visualize Prime Video’s movie and 
 ### GitHub Repository:
 Access the full project and explore the Power BI visualizations here:  
 [Prime Video Content Analysis on GitHub](https://lnkd.in/gAHdEhm7)
+![Screenshot 2025-05-24 163720](https://github.com/user-attachments/assets/f0d56e85-4771-410d-bff9-28f6c20e0d6e)
+
 
 ### Conclusion:
 This project highlights the power of Power BI in extracting meaningful insights from large datasets, enabling users to create engaging visualizations and identify key trends in the entertainment industry. By analyzing Prime Video's content library, valuable insights were drawn to support content strategy and decision-making.
